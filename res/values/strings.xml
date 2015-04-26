@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Unit Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+<string-array name="units">
+        <item >Millimeters</item>
+        <item >Centimeters</item>
+        <item >Meters</item>
+        <item >Kilometers</item>
+        <item >Feet</item>
+        <item >Inches</item>
+        <item >Miles</item>
+        <item >Yards</item>
+    </string-array>
+    <string-array name="temp">
+        <item >Celcius</item>
+        <item >Fahrenheit</item>
+        <item >Kelvin</item>
+    </string-array>
+    <string name="input_not_filled">Please Enter Some Input and Continue</string>
+    <string-array name="DigitalStorage">
+        <item >Bit</item>
+        <item >Byte</item>
+        <item >Kilobit</item>
+        <item >Kilobyte</item>
+        <item >Megabit</item>
+        <item >Megabyte</item>
+        <item >Gigabit</item>
+        <item >Gigabyte</item>
+        <item >Terabit</item>
+        <item >Terabyte</item>
+        <item >Petabit</item>
+        <item >Petabyte</item>
+    </string-array>
+    <string-array name="Speed">
+        <item >Miles/hour</item>
+        <item >Feet/sec</item>
+        <item >Meters/sec</item>
+        <item >Km/hour</item>
+        <item >Knot</item>
+    </string-array>
+    <string-array name="Volume">
+        <item >US gal</item>
+        <item >US quart</item>
+        <item >US pint</item>
+        <item >US cup</item>
+        <item >US oz</item>
+        <item >US tbsp.</item>
+        <item >US tsp.</item>
+        <item >Cubic meter</item>
+        <item >Liter</item>
+        <item >Milliliter</item>
+        <item >Imperial gal</item>
+        <item >Imperial quart</item>
+        <item >Imperial pint</item>
+        <item >Imperial oz</item>
+        <item >Imperial tbsp.</item>
+        <item >Imperial tsp.</item>
+        <item >Cubic foot</item>
+        <item >Cubic inch</item>
+    </string-array>
+    <string-array name="FuelConsumption">
+        <item >MPG(US)</item>
+        <item >MPG(imp.)</item>
+        <item >Km/liter</item>
+        <item >Liter/100Km</item>
+    </string-array>
+    <string-array name="Area">
+        <item >Hectare</item>
+        <item >Square Km</item>
+        <item >Square meter</item>
+        <item >Square mile</item>
+        <item >Acre</item>
+        <item >Square yard</item>
+        <item >Square foot</item>
+        <item >Square inch</item>
+    </string-array>
+    <string-array name="Time">
+        <item >Microsecond</item>
+        <item >Nanosecond</item>
+        <item >Millisecond</item>
+        <item >Second</item>
+        <item >Minute </item>
+        <item >Hour</item>
+        <item >Day</item>
+        <item >Week</item>
+        <item >Month</item>
+        <item >Year</item>
+        <item >Decade</item>
+        <item >Century</item>
+    </string-array>
+    <string-array name="Mass">
+        <item >Metric ton</item>
+        <item >Kilogram</item>
+        <item >Gram</item>
+        <item >Milligram</item>
+        <item >Mcg</item>
+        <item >Long ton</item>
+        <item >Short ton</item>
+        <item >Stone</item>
+        <item >Pound</item>
+        <item >Ounce</item>
+    </string-array>
+</resources>
