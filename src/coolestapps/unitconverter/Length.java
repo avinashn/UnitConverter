@@ -112,8 +112,8 @@ public class Length extends Activity {
 					km.setText(String.valueOf(kk) + "  " + "kilo meters");
 					Double km1 = ip * 100;
 					cm.setText(String.valueOf(km1) + "  " + "Centi meters");
-					Double m1 = ip * 1000;
-					m.setText(String.valueOf(m1) + "  " + "Meters");
+					
+					m.setText(String.valueOf(ip) + "  " + "Meters");
 					Double f = ip * 3.28084;
 					ft.setText(String.valueOf(f) + "  " + "Feet");
 					Double mi1 = ip * 39.3701;
